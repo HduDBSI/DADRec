@@ -1,6 +1,4 @@
-# DADRec Beauty Test
-
-This package keeps only the PreOPQ/SoftQuant DADRec Beauty test artifacts.
+# DADRec
 
 - Model: `DADRec`
 - Checkpoint: `ckpt/beauty.pth`
