@@ -1,0 +1,4 @@
+local_data_dir: data/Instruments
+local_dataset_name: Instruments
+metadata: none
+split: leave_one_out

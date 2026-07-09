@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Training outputs / temp
+runs/
+# Custom project directories to ignore
+ckpt/
+data/
+saved/
+cache/
+runs/
+reports/
+scripts/
