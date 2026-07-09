@@ -1,4 +1,4 @@
-# DADRec
+# Drift-Aware Discrete Diffusion with Continuous Augmentation for Generative Recommendation
 
 - Model: `DADRec`
 - Checkpoint: `ckpt/beauty.pth`
